@@ -1,4 +1,4 @@
 # Group Members
-1. Name (https://github.com/name/iotclass67)
-1. Name (https://github.com/name/iotclass67)
-1. Name (https://github.com/name/iotclass67)
+1. Siriwat Huntra (https://github.com/SiriwatHuntra/iotclass67.git)
+2. Kanyana To-adiyhep (https://github.com/KanyanaGitHub/iotclass67)
+3. Kantinan Boonyingsathit (https://github.com/mery9/iotclass67)
