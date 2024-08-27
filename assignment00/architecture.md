@@ -6,9 +6,9 @@
 
 ## Eclipse Mosquitto
 
-    โปรแกรม Open Source สำหรับการจัดการ Message (Message Broker) ในการใช้งาน MQTT
+1.  โปรแกรม Open Source สำหรับการจัดการ Message (Message Broker) ในการใช้งาน MQTT
 Protocol สามารถใช้งานได้บนคอมพิวเตอร์ขนาดเล็กจนถึงเครื่อง Server
-    MQTT Protocol เป็น Protocol สำหรับการใช้ส่ง Message ระหว่างอุปกรณ์แบบ Asynchronous
+2.  MQTT Protocol เป็น Protocol สำหรับการใช้ส่ง Message ระหว่างอุปกรณ์แบบ Asynchronous
 (Pub/Sub Model) เหมาะสำหรับการใช้งานบนระบบ IoT ที่ประกอบด้วย Low Power Sensor และ Mobile
 Device ในระบบ
 
