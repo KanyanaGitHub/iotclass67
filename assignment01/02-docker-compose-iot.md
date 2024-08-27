@@ -25,7 +25,7 @@
 
 
 ### IoT Sensor - Dashboards - Grafana URL
-
+[^1]: http://172.16.46.21:8085/d/prod-node-monitoring/iot-sensor?orgId=1&refresh=5s
 ### UI for Apache Kafka
 
 ### Mongo Express
