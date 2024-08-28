@@ -12,7 +12,7 @@
 ![Example Image](Pressure.png)
 
 - IOT sensor Temperature
-![Example Image](Temp.pn)
+![Example Image](Temp.png)
 
 - IOT 10 sensor map dash bord
 ![Example Image](10sensor.png)
