@@ -9,7 +9,7 @@
 ![Example Image](Lumi.png)
 
 - IOT sensuor Pressure
-![Example Image](Pressure.png)
+![Example Image](Presure.png)
 
 - IOT sensor Temperature
 ![Example Image](Temp.png)
