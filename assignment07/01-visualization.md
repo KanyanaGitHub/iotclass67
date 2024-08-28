@@ -1,18 +1,18 @@
 # Data Visualization.
 - IOT sensuor Humidity
-![Example Image]()
+![Example Image](Humi.png)
 
 - IOT sensor AVG Temperature
-![Example Image](AVGTemperature.png)
+![Example Image](AVGTemp.png)
 
 - IOT sensuor Luminosity
-![Example Image]()
+![Example Image](Lumi.png)
 
 - IOT sensuor Pressure
-![Example Image]()
+![Example Image](Pressure.png)
 
 - IOT sensor Temperature
-![Example Image]()
+![Example Image](Temp.pn)
 
 - IOT 10 sensor map dash bord
-![Example Image]()
+![Example Image](10sensor.png)
