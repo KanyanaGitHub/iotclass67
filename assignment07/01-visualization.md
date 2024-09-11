@@ -104,3 +104,19 @@ docker compose restart grafana
 ![Example Image](Step5_4.png)
 
 - save, apply
+
+- # วิธีการทำ Node Exporter
+
+- Edit File docker-compose.yml node exporter
+
+![Example Image](Node1.png)
+
+- Edit File prometheus.yml
+
+![Example Image](Node2.png)
+
+- restart prometheus
+
+```cpp
+docker compose restart prometheus
+```
