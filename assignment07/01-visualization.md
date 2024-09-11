@@ -33,7 +33,34 @@
 - สร้าง Directory ใหม่เพือลงไฟล์ Zip ในเซิร์ฟเวอร์ 
 
 ```cpp
-sudo mkdir name_directory
+sudo mkdir Name_directory
+```
+
+- เข้าไปใน Directory ใหม่ที่สร้างไว้
+
+- โหลดไฟล์ zip เข้าเซิร์ฟเวอร์
+
+```cpp
+sudo wget Link_by_Flowcharting
+```
+![Example Image](Step1_1.png)
+
+- แตกไฟล์ Zip
+
+```cpp
+sudo unzip File_name
+```
+
+- ย้ายไฟล์ dist ออกมาจาก Directory
+
+```cpp
+sudo mv dist Grafana-flowcharting
+```
+
+- restart grafana
+
+```cpp
+docker compose restart grafana
 ```
 
 2. เลือกใช้ plugin ใน dashboard
