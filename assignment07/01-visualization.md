@@ -40,20 +40,28 @@
 
 ![Example Image](Step3_1.png)
 
-4. เลื่อนไปที่ Rule เพื่อ เซ็ต จุดวางเซ็นเซอร์แต่ละตัว
+4. เซ็ตภาพที่ต้องการ ใน Draw.io โดยใช้คำาสั่ง Edit Diagram
+
+- import ไฟล์ .csv (สามารถนำไฟล์ ภาพ เข้าในโปรแกรม Draw.io แล้ว export ออกมาเป็นไฟล์ .csv ได้)
 
 ![Example Image](Step4_1.png)
 
+- วาง Opject ลงในจุดที่ต้องการแล้ว กด save
+
+5. เลื่อนไปที่ Rule เพื่อ เซ็ต จุดวางเซ็นเซอร์แต่ละตัว
+
+![Example Image](Step5_1.png)
+
 - เซ็ตข้อมูลที่ต้องการดึง
 
-![Example Image](Step4_2.png)
+![Example Image](Step5_2.png)
 
 - เซ็ตสีที่ต้องการ
 
-![Example Image](Step4_3.png)
+![Example Image](Step5_3.png)
 
 - เลือก Opject และ Text ที่ต้องการแสดง
 
-![Example Image](Step4_4.png)
+![Example Image](Step5_4.png)
 
 - save, apply
