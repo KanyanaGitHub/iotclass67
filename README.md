@@ -9,7 +9,7 @@ Internet of things Class 2567
 - [ ] Ingest and store real-time data from IoT sensors. https://gibhub.com
 - [ ] Analyze and make aggregations. https://gibhub.com
 - [ ] Store data. https://gibhub.com
-- [ ] Data Visualization.  https://gibhub.com
+- [ ] Data Visualization.  [as07](https://github.com/KanyanaGitHub/iotclass67/blob/main/assignment07/01-visualization.md)
 - [ ] Used technologies. https://gibhub.com
 
 
