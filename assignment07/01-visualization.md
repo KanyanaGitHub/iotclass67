@@ -120,3 +120,5 @@ docker compose restart grafana
 ```cpp
 docker compose restart prometheus
 ```
+
+- ลง Dashbord ใน Grafana โดย import dashbord json file (เลือก template จากใน Internet)
