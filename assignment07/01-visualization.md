@@ -1,5 +1,5 @@
 # Data Visualization.
-- IOT sensuor Humidity
+- # IOT sensuor Humidity
 ![Example Image](Humi.png)
 
 - IOT sensor AVG Temperature
