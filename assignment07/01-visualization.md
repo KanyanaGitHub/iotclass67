@@ -29,14 +29,19 @@
 1. ลง Plug in Flowcharting จาก (https://algenty.github.io/flowcharting-repository/INSTALL.html)
 
 2. เลือกใช้ plug in ใน dashboard
+
 ![Example Image](Step2.png)
+
 3. เลือกดึงข้อมูลจาก Prometheus โดยเซ็ตข้อมูลที่ต้องการใน Metric
+
 ![Example Image](Step3.png)
 
 - เซ็ต Options เพื่อความสดวกในการเรียกใช้
 
 ![Example Image](Step3_1.png)
+
 4. เลื่อนไปที่ Rule เพื่อ เซ็ต จุดวางเซ็นเซอร์แต่ละตัว
+
 ![Example Image](Step4_1.png)
 
 - เซ็ตข้อมูลที่ต้องการดึง
