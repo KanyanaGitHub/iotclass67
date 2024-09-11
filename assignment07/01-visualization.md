@@ -8,6 +8,7 @@
 
 - # IOT sensor AVG Temperature
 ![Example Image](AVGTemp.png)
+![AVGTemp](https://github.com/user-attachments/assets/98ed7821-f15a-4ec2-b0b5-1a3fba4620ae)
 
 - # IOT sensuor Luminosity
 ![Example Image](Lumi.png)
