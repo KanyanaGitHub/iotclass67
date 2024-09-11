@@ -4,7 +4,7 @@
 ประกอบด้วย 1. อุณหภูมิ 2. ความชื้น 3. แสง 4. แรงดันไฟฟ้า  5. สถานะ Gateway
 
 - # IOT sensuor Humidity
-![Example Image](Humi.png)
+![Humi](https://github.com/user-attachments/assets/bc1e72df-f1a4-4143-bd40-2719874f9fe1)
 
 - # IOT sensor AVG Temperature
 ![Example Image](AVGTemp.png)
