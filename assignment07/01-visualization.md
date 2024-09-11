@@ -26,11 +26,17 @@
 
 - # วิธีการทำ IOT 10 sensor map dashbord
 
-1. ลง Plug in Flowcharting จาก (https://github.com/skyfrank/grafana-flowcharting/releases/tag/v1.0.0e)
+1. ลง Plugin Flowcharting จาก (https://github.com/skyfrank/grafana-flowcharting/releases/tag/v1.0.0e)
 
-- Remote เข้าไปในเซิร์ฟเวอร์ เข้าไปใน 
+- Remote เข้าไปในเซิร์ฟเวอร์ เข้าไปใน folder Plugin ของ grafana
 
-2. เลือกใช้ plug in ใน dashboard
+- สร้าง Directory ใหม่เพือลงไฟล์ Zip ในเซิร์ฟเวอร์ 
+
+```cpp
+sudo mkdir name_directory
+```
+
+2. เลือกใช้ plugin ใน dashboard
 
 ![Example Image](Step2.png)
 
