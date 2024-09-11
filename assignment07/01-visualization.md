@@ -48,7 +48,7 @@
 
 ![Example Image](Step4_2.png)
 
-- เซ็ตสี่ที่ต้องการ
+- เซ็ตสีที่ต้องการ
 
 ![Example Image](Step4_3.png)
 
