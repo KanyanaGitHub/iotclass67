@@ -57,6 +57,10 @@ sudo unzip File_name
 sudo mv dist Grafana-flowcharting
 ```
 
+- ebit flie docker-compose.yml
+
+![Example Image](Step1_2.png)
+
 - restart grafana
 
 ```cpp
