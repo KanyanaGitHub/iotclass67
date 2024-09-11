@@ -1,4 +1,7 @@
 # Data Visualization.
+
+ข้อมูลที่จะนำมาแสดงนั้นเป็นข้อมูลที่ได้จากเครื่อง Gateway โดยข้อมูลที่ดึงมาแสดงจะประกอบด้วย 1. อุณหภูมิ 2. ความชื้น 3. แสง 4. แรงดันไฟฟ้า  5. สถานะ Gateway
+
 - # IOT sensuor Humidity
 ![Example Image](Humi.png)
 
