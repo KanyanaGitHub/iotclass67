@@ -14,7 +14,7 @@
 - IOT sensor Temperature
 ![Example Image](Temp.png)
 
-- IOT 10 sensor map dash bord
+- IOT 10 sensor map dashbord
 ![Example Image](10sensor.png)
 
 - Node Exporter
