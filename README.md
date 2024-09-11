@@ -3,7 +3,7 @@ Internet of things Class 2567
 
 # Table of Contents
 
-- [ ] Main technologies of architectures [assignment00](assignment00)
+- [ ] Main technologies of architectures [assignment00](https://github.com/SiriwatHuntra/iotclass67/blob/main/assignment00/architecture.md)
 - [ ] Setting up servers and components. https://gibhub.com
 - [ ] Compose services. https://gibhub.com
 - [ ] Ingest and store real-time data from IoT sensors. https://gibhub.com
