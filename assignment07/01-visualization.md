@@ -2,20 +2,20 @@
 - # IOT sensuor Humidity
 ![Example Image](Humi.png)
 
-- IOT sensor AVG Temperature
+- # IOT sensor AVG Temperature
 ![Example Image](AVGTemp.png)
 
-- IOT sensuor Luminosity
+- # IOT sensuor Luminosity
 ![Example Image](Lumi.png)
 
-- IOT sensuor Pressure
+- # IOT sensuor Pressure
 ![Example Image](Presure.png)
 
-- IOT sensor Temperature
+- # IOT sensor Temperature
 ![Example Image](Temp.png)
 
-- IOT 10 sensor map dashbord
+- # IOT 10 sensor map dashbord
 ![Example Image](10sensor.png)
 
-- Node Exporter
+- # Node Exporter
 ![Example Image](Node.png)
