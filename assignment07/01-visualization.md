@@ -31,14 +31,14 @@
 ![Example Image](Step2.png)
 3. เลือกดึงข้อมูลจาก Prometheus โดยเซ็ตข้อมูลที่ต้องการใน Metric
 ![Example Image](Step3.png)
-   เซ็ต Options เพื่อความสดวกในการเรียกใช้
+-   เซ็ต Options เพื่อความสดวกในการเรียกใช้
 ![Example Image](Step3_1.png)
 4. เลื่อนไปที่ Rule เพื่อ เซ็ต จุดวางเซ็นเซอร์แต่ละตัว
 ![Example Image](Step4_1.png)
-   เซ็ตข้อมูลที่ต้องการดึง
+-   เซ็ตข้อมูลที่ต้องการดึง
 ![Example Image](Step4_2.png)
-   เซ็ตสี่ที่ต้องการ
+-   เซ็ตสี่ที่ต้องการ
 ![Example Image](Step4_3.png)
-   เลือก Opject และ Text ที่ต้องการแสดง
+-   เลือก Opject และ Text ที่ต้องการแสดง
 ![Example Image](Step4_4.png)
-save, apply
+-   save, apply
