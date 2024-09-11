@@ -57,7 +57,7 @@ sudo unzip File_name
 sudo mv dist Grafana-flowcharting
 ```
 
-- ebit flie docker-compose.yml
+- ebit flie docker-compose.yml ที่บรรทัด 289,290
 
 ![Example Image](Step1_2.png)
 
