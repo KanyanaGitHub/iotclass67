@@ -19,7 +19,7 @@
 
 ![Presure](https://github.com/user-attachments/assets/c374c01c-704c-442f-9ec5-f57b8592f907)
 
-- # IOT sensor Temperature
+- # IOT sensor area
 
 ![Temp](https://github.com/user-attachments/assets/cbc9db10-f936-4d2f-aa26-b55e954af69f)
 
@@ -93,7 +93,7 @@ docker compose restart grafana
 
 4. เซ็ตภาพที่ต้องการ ใน Draw.io โดยใช้คำาสั่ง Edit Diagram
 
-- import ไฟล์ .csv (สามารถนำไฟล์ ภาพ เข้าในโปรแกรม Draw.io แล้ว export ออกมาเป็นไฟล์ .csv ได้)
+- import ไฟล์ .svg (สามารถนำไฟล์ ภาพ เข้าในโปรแกรม Draw.io แล้ว export ออกมาเป็นไฟล์ .svg ได้)
 
 ![Step4_1](https://github.com/user-attachments/assets/e1662b6c-9495-4675-aaa9-a2079a8e87fd)
 
