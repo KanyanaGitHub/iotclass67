@@ -27,6 +27,10 @@
 
 ![10sensor](https://github.com/user-attachments/assets/d0b21df3-7f16-4b05-adba-1a1acce8f777)
 
+- # IOT 10 sensor Layout
+
+![layout](https://github.com/user-attachments/assets/c08f5405-bd95-4d16-bdc8-9c009f646126)
+
 - # Node Exporter
 
 ![Node](https://github.com/user-attachments/assets/c3885aba-e15b-4b62-b986-c82b33cf6e1f)
