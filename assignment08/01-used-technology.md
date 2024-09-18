@@ -14,10 +14,10 @@
 - [ ] lombok.
 - [ ] Jackson.
 - [X] [NodeExporter (Exporter for machine metrics).](/assignment07/01-visualization.md#วิธีการทำ-node-exporter)
-- [X] [Prometheus.]()
+- [X] [Prometheus.](/assignment06/01-storedata.md#2-นำข้อมูลไปส่งต่อให้-prometheus)
 - [X] [Grafana.](/assignment07/01-visualization.md#วิธีการทำ-iot-10-sensor-map-dashbord)
 - [X] [Eclipse Mosquitto.]()
-- [X] [MongoDB.]()
+- [X] [MongoDB.](/assignment06/01-storedata.md#1-นำข้อมูลไปเก็บไว้ใน-mongodb)
 - [ ] Mongo DB Express (Web-based MongoDB admin interface, written with Node.js and express).
 - [ ] Cadvisor (Analyzes resource usage and performance characteristics of running containers).
 - [X] [kafka-exporter (Kafka exporter for Prometheus).]()
